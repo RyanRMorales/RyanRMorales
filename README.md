@@ -1,9 +1,9 @@
 # Hi, I'm Ryan 👋
 
-I'm an aspiring SOC Analyst with CompTIA Security+ and the Google Cybersecurity Professional Certificate, building hands-on experience through a cybersecurity homelab focused on security monitoring, threat detection, and incident investigation.
+I'm an aspiring cybersecurity and IT professional with CompTIA Security+ and the Google Cybersecurity Professional Certificate, while continuing to pursue additional industry certifications and build hands-on experience through projects focused on security operations, governance, risk and compliance (GRC) fundamentals, vulnerability assessment and remediation, system administration, and IT support. I'm also expanding my knowledge of the cloud technologies and cloud security as I continue developing my technical skills.
 
-My lab environment includes Active Directory, Splunk Enterprise, Sysmon, Windows endpoints, and Kali Linux. I use the environment to simulate security events, investigate telemetry, develop SPL detections, and validate alerts through realistic attack-and-detection scenarios.
+My homelab environment includes Window Server, Active Directory, Splunk Enterprise, Sysmon, Windows endpoints, and Linux systems. I use this environment to simulate security events, investigate system activity, develop and validate security detections, assess and remediate vulnerabilities, manage user accounts and access controls, and document technical findings and remediation outcomes.
 
-## 🔐 Cybersecurity Portfolio
+## 🔐 Cybersecurity and IT Portfolio
 
-I'm currently building a portfolio of hands-on SOC and detection engineering projects using my Active Directory and Splunk homelab.
+My portfolio showcases hands-on projects spanning security operations, threat detection, vulnerability management, risk assessment, system administration, and IT service desk operations. Each project emphasizes practical implementation, technical analysis, and documentation of findings and outcomes.
